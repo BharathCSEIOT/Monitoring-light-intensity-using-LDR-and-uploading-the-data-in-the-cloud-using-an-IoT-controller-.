@@ -246,12 +246,14 @@ void LDR() {
   }
 ```
 # CIRCUIT DIAGRAM:
-![image](https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/cc268f6c-8c4c-44a9-b390-3ecb4cb9e1c0)
+<img height=40% width=20% src=https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/cc268f6c-8c4c-44a9-b390-3ecb4cb9e1c0>
 
 # OUTPUT:
-![image](https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/d8ae3716-9565-4550-964e-a9ac6620ea2d)
-![image](https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/2f9facf6-701a-4451-a73c-d28de4e9e74a)
-![image](https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/71c8070e-2f6b-415c-b46d-abdafa992dbc)
+<img height=30% width=25% src=https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/d8ae3716-9565-4550-964e-a9ac6620ea2d>
+
+<img height=70% width=70% src=https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/2f9facf6-701a-4451-a73c-d28de4e9e74a>
+
+<img height=70% width=70% src=https://github.com/BharathCSEIOT/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/122793480/71c8070e-2f6b-415c-b46d-abdafa992dbc>
 
 # RESULT:
 
